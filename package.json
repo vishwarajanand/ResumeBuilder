@@ -1,12 +1,12 @@
 {
-  "name": "best-resume-ever",
+  "name": "AboutMe",
   "version": "1.0.0",
   "description": "Build fast and easy multiple beautiful resumes and create your best CV ever! ",
-  "author": "salomonelli",
+  "author": "Vishwaraj Anand",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/salomonelli/best-resume-ever.git"
+    "url": "git+https://github.com/vishwarajanand/aboutme.git"
   },
   "scripts": {
     "docs": "node build/build.js",
@@ -27,6 +27,7 @@
   },
   "dependencies": {
     "font-awesome": "4.7.0",
+    "ignore-errors": "^1.0.0",
     "js-yaml": "3.10.0",
     "material-design-icons": "3.0.1",
     "material-icons": "0.1.0",

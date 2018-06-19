@@ -1,15 +1,13 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/salomonelli/best-resume-ever">
+  <a href="https://github.com/vishwarajanand/aboutme.git">
   <img src="src/assets/logo.png" alt="Markdownify" width="200"></a>
   <br>
-  best-resume-ever
+  Resume builder app
   <br>
 </h1>
 
 <div align="center">
-
-[![Travis badge](https://travis-ci.org/salomonelli/best-resume-ever.svg?branch=master)](https://travis-ci.org/salomonelli/best-resume-ever)
 
 </div>
 
@@ -53,7 +51,7 @@ best-resume-ever requires at least node v.8.5.0.
 
 4. Preview resumes with `npm run dev`.
 
-5. Export with `npm run export`.
+5. Export with `npm run pdf`.
 
 
 All resumes will be exported to the `pdf/` folder.
@@ -86,8 +84,6 @@ This project uses several open source packages:
 <br>
 
 
+This is a rebuild of another repo which belongs to:
 ---
-
-> [sarasteiert.com](https://www.sarasteiert.com) &nbsp;&middot;&nbsp;
 > GitHub [@salomonelli](https://github.com/salomonelli) &nbsp;&middot;&nbsp;
-> Twitter [@salomonelli](https://twitter.com/salomonelli)
